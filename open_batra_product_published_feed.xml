@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+        <channel>
+
+                <title>Published product feed</title>
+                <description>Every time a product is published (new or updated), an event/item is added to this feed</description>
+                <link>http://example.org/</link>
+                <lastBuildDate>Fri, 5 Nov 2021 12:00:00 GMT</lastBuildDate>
+                <managingEditor>johndoe@example.com (Open batra)</managingEditor>
+
+                <item>
+                        <title>Atom-Powered Robots Run Amok</title>
+                        <link>https://www.batra.link/01/00230229184407/00230229184407.json</link>
+                        <guid isPermaLink="false">urn:uuid:00230229184407</guid>
+                        <pubDate>Fri, 5 Nov 2021 13:00:00 GMT</pubDate>
+                        <description>Some text.</description>
+                </item>
+
+        </channel>
+</rss>
